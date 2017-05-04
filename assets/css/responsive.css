@@ -1,0 +1,58 @@
+@media screen and (max-width: 980px) {
+    .masthead {
+        position: static;
+    }
+    .container {
+        width: 90%;
+    }
+    .sidebar {
+        float: left;
+        margin-top: -15px;
+        width: 650px;
+        margin: auto;
+    }
+    .connect {
+        width: 100%;
+
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    .social {
+      width: 20%;
+      height: auto;
+
+    }
+
+  #connect {
+    float: center;
+
+  }
+
+
+@media screen and (max-width: 768px) {
+    .masthead {
+        position: static;
+    }
+    .container {
+        width: 90%;
+    }
+    .sidebar {
+        width: 650px;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .masthead {
+        position: static;
+    }
+    .container {
+        width: 90%;
+    }
+    .sidebar {
+        width: 100%;
+    }
+}
